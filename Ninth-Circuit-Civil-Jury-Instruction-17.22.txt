@@ -1,0 +1,45 @@
+This chapter is being reviewed in light of comments solicited by the
+Committee from the public.
+
+17.22  COPYRIGHT---AFFIRMATIVE DEFENSE---ABANDONMENT
+
+The defendant contends that a copyright does not exist in the
+plaintiff’s work because the plaintiff abandoned the copyright.
+The plaintiff cannot claim ownership of the copyright if it was
+abandoned.  In order to show abandonment, the defendant has the burden
+of proving each of the following by a preponderance of the evidence:
+
+1.	the plaintiff intended to surrender [ownership] rights in
+the work; and
+
+2.	an act by the plaintiff evidencing that intent.
+
+Mere inaction [or publication without a copyright notice] does not
+constitute abandonment of the copyright; however, [this may be a
+factor] [these may be factors] for you to consider in determining
+whether the plaintiff has abandoned the copyright.
+
+If you find that the plaintiff has proved [his] [her] [its] claim[s]
+in accordance with Instruction[s] [insert cross reference to the
+pertinent instructions on the plaintiff’s theory of infringement],
+your verdict should be for the plaintiff, unless you find that the
+defendant has proved each of the elements of this affirmative defense,
+in which case your verdict should be for the defendant.
+
+Comment
+
+Abandonment is an affirmative defense.	See, e.g., A&M Records,
+Inc. v. Napster, Inc., 239 F.3d 1004, 1026 (9th Cir.2001); Abend
+v. MCA, Inc., 863 F.2d 1465, 1482 n.21 (9th Cir.1988).	The bracketed
+portion of the penultimate paragraph pertaining to publication without
+copyright notice should be used if the copyright infringement action
+is brought under the 1909 Copyright Act.
+
+Abandonment of a right secured by the Copyright Act must be manifested
+by an overt act indicating an intention to abandon that right.
+Micro Star v. Formgen, Inc., 154 F.3d 1107, 1114 (9th Cir.1998).
+A copyright owner may abandon some rights and retain others.  Id. at
+1114 (holding that license permitting creation of derivative works
+from software, but also providing  that licensees not distribute
+derivative works commercially, did not abandon copyright holder’s
+rights to profit commercially from derivative works).
